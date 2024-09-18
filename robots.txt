@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tineovan.github.io/sitemap.html.gz
+Sitemap: https://tineovan.github.io/app/sitemap.html.gz
+Sitemap: https://tineovan.github.io/assets/sitemap.html.gz
+Sitemap: https://tineovan.github.io/css/sitemap.html.gz
+Sitemap: https://tineovan.github.io/includes/sitemap.html.gz
+Sitemap: https://tineovan.github.io/item/sitemap.html.gz
+Sitemap: https://tineovan.github.io/src/sitemap.html.gz
